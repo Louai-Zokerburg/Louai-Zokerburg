@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Louai</h1>
 <h3 align="left">I'm a software engineer passionate about building high-quality, performant, and visually stunning full-stack applications.</h3>
 
-🔭 I’m currently working on [Career Way](https://github.com/crarrer-way-org/career-way-web)
+🔭 I’m currently working on [Activepieces](https://https://github.com/activepieces/activepieces)
 
 👨‍💻 All of my projects are available at [my portfolio website](https://louai.site)
 
